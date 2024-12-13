@@ -34,7 +34,7 @@ nav {
 /* location style */
 .location {
     height: 400px;
-    background-image: url('/imgs/banner.png');
+    background-image: url('../imgs/banner.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
